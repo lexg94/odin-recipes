@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(236, 191, 186);
+}
+ h1 {
+    font-weight: bold;
+    color: lime;
+    background-color: yellow;
+    text-align: center;
+ }
+
+ .links li {
+    font-size: 25px;
+ }
